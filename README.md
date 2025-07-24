@@ -12,7 +12,7 @@ Me chamo Guilherme Cardoso, tenho 20 anos. Atualmente, estou cursando Sistemas d
             src="https://custom-icon-badges.demolab.com/github/followers/Guilherme-Cardosoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="">
+    <a href="https://github.com/Guilherme-Cardosoo?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
