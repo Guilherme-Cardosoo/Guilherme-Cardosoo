@@ -5,14 +5,14 @@
 Me chamo Guilherme Cardoso, tenho 20 anos. Atualmente, estou cursando Sistemas de Informação no IFC. Sou apaixonado por tecnologia e desenvolvimento web, especialmente por interfaces limpas e modernas que proporcionam uma boa experiência ao usuário.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Guilherme-Cardosoo?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Guilherme-Cardosoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Guilherme-Cardosoo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
