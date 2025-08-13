@@ -65,6 +65,20 @@ Me chamo Guilherme Cardoso, tenho 20 anos. Atualmente, estou cursando Sistemas d
 <br/>
 <br/>
 
+### Estou Estudando
+
+<img
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>
