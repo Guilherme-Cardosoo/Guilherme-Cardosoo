@@ -65,7 +65,7 @@ Me chamo Guilherme Cardoso, tenho 20 anos. Atualmente, estou cursando Sistemas d
 <br/>
 <br/>
 
-### Estou Estudando
+### 📚 Estudando
 
 <img
     align="left"
