@@ -46,15 +46,6 @@ Me chamo Guilherme Cardoso, tenho 20 anos. Atualmente, estou cursando Sistemas d
 
 <img
     align="left"
-    alt="git"
-    title="git"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img
-    align="left"
     alt="Vue"
     title="Vue"
     width="30px"
@@ -69,11 +60,20 @@ Me chamo Guilherme Cardoso, tenho 20 anos. Atualmente, estou cursando Sistemas d
 
 <img
     align="left"
-    alt="SQL"
-    title="SQL"
+    alt="MySQL"
+    title="MySQL"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+<img
+    align="left"
+    alt="git"
+    title="git"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
 <br/>
