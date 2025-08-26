@@ -1,7 +1,5 @@
 # 👨🏻‍💻 Guilherme Cardoso
 
-**`Desenvolvedor Front-end`**
-
 Me chamo Guilherme Cardoso, tenho 21 anos. Atualmente, estou cursando Sistemas de Informação no IFC. Sou apaixonado por tecnologia e desenvolvimento web, especialmente por interfaces limpas e modernas que proporcionam uma boa experiência ao usuário. Também estudo sobre web design às vezes.
 
 ---
