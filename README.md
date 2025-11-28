@@ -74,6 +74,15 @@ Me chamo Guilherme Cardoso, tenho 21 anos. Atualmente, estou cursando Sistemas d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
+<img
+    align="left"
+    alt="react"
+    title="react"
+    width="40px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
 <br/>
 <br/>
 
