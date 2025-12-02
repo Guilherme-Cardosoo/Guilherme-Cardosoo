@@ -51,6 +51,15 @@ Me chamo Guilherme Cardoso, tenho 21 anos. Atualmente, estou cursando Sistemas d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"                       
 />
 
+<img
+    align="left"
+    alt="git"
+    title="git"
+    width="40px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
 <br/>
 <br/>
 
@@ -63,15 +72,6 @@ Me chamo Guilherme Cardoso, tenho 21 anos. Atualmente, estou cursando Sistemas d
     width="40px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-
-<img
-    align="left"
-    alt="git"
-    title="git"
-    width="40px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
 <img
