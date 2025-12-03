@@ -86,6 +86,7 @@ Me chamo Guilherme Cardoso, tenho 21 anos. Atualmente, estou cursando Sistemas d
 <br/>
 <br/>
 
+<!--
 ### 📊 Estatísticas
 
 <img 
@@ -94,5 +95,6 @@ Me chamo Guilherme Cardoso, tenho 21 anos. Atualmente, estou cursando Sistemas d
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Cardosoo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
+  -->
 
 </p>
