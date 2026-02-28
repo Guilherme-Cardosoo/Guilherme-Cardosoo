@@ -101,6 +101,15 @@ Me chamo Guilherme Cardoso, tenho 21 anos. Atualmente, estou cursando Sistemas d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 
+<img
+    align="left"
+    alt="C"
+    title="C"
+    width="40px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+
 <br/>
 <br/>
 
